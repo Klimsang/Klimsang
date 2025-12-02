@@ -5,7 +5,7 @@ I'm a Master's student learning Cybersecurity and Technology policy. Currently w
 to emphasize the protection risks and vulenrablities of the financial smuggling networks in Sub-Saharan Africa and MENA.
 
 ## Skills
-- **Languages:** Python, JavaScript, TypeScript
+- **Languages:** Python, JavaScript, SQL
 - **Frontend:** React, HTML/CSS, Tailwind
 - **Backend:** Node.js, Django, PostgreSQL
 - **Tools:** Git, Docker, AWS
