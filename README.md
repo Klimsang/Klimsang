@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Information and Event Management Labs (Oracle VirtualBox) </b>
+- <b>Security Information and Event Management (Oracle VirtualBox) </b>
   - [Ubuntu:]()
 
 
@@ -12,13 +12,13 @@
 
 <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Wazuh Home Lab
+- 🌱 I’m currently learning Krita
+- 👯 I’m looking to collaborate on Game Design
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Cybersecurity and Technology Policy
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: ...
 -->
 
