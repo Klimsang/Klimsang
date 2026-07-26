@@ -8,7 +8,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero]()
+- [How to ]()
 
 <br>
 
