@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]()
+- <b>Security Information and Event Management(SIEM) Labs</b>
+  - [Oracle VirtualBox:]()
 
 
 <h2>📺 Popular YouTube Videos</h2>
