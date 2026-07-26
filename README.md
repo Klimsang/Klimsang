@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Information and Event Management(SIEM) Labs</b>
-  - [Oracle VirtualBox:]()
+- <b>Security Information and Event Management Labs (Oracle VirtualBox) </b>
+  - [Ubuntu:]()
 
 
 <h2>📺 Popular YouTube Videos</h2>
