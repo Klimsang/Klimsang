@@ -1,29 +1,9 @@
-<h1>Hi, I'm Krystina! <br/><a href="https://github.com/Klimsang">Aspiring Cybersecurity GRC practitioner</a>, <a href="https://www.linkedin.com/in/frydumplin/">Paralegal</a>, <a href="https://www.youtube.com/c/fry_dumplin">Gamer</a></h1>
 
-
-
-- 🔭 I’m currently working on a Wazuh Home Lab
-- 🌱 I’m currently learning Krita
-- 👯 I’m looking to collaborate on Game Design
-- 🤔 I’m looking for help with breaking into Cybersecurity
-- 💬 Ask me about Cybersecurity and Technology Policy
-- 📫 How to reach me: klims001@fiu.edu
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: 
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="KrystinaLimSang | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="KrystinaLimSang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KrystinaLimSang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[youtube]: https://www.youtube.com/c/fry_dumplin
-[instagram]: https://www.instagram.com/fry_dumplin/
-[linkedin]: https://linkedin.com/in/frydumplin
 
 # 💫 About Me:
+
+<h1>Hi, I'm Krystina! <br/><a href="https://github.com/Klimsang">Aspiring Cybersecurity GRC practitioner</a>, <a href="https://www.linkedin.com/in/frydumplin/">Paralegal</a>, <a href="https://www.youtube.com/c/fry_dumplin">Gamer</a></h1>
+
 🔭 I’m currently working on a Wazuh Home Lab<br>🌱 I’m currently learning Krita<br>👯 I’m looking to collaborate on Game Design<br>🤔 I’m looking for help with breaking into Cybersecurity<br>💬 Ask me about Cybersecurity and Technology Policy<br>📫 How to reach me: klims001@fiu.edu<br>😄 Pronouns: she/her/hers<br>⚡ Fun fact: My family is from the Caribbean.
 
 
