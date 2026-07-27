@@ -18,10 +18,10 @@
 - 👯 I’m looking to collaborate on Game Design
 - 🤔 I’m looking for help with breaking into Cybersecurity
 - 💬 Ask me about Cybersecurity and Technology Policy
-- 📫 How to reach me: ...
+- 📫 How to reach me: klims001@fiu.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: ...
--->
+--> 
 
 
 <h2> 🤳 Connect with me:</h2>
