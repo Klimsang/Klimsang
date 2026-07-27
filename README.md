@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Information and Event Management (Oracle VirtualBox) </b>
-  - [Ubuntu:]()
+- <b>Security Information and Event Management (SIEM) </b>
+  - [Oracle VirtualBox:]()
   - [Azure Sentinel:]()
 
 
