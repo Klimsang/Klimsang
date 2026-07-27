@@ -20,8 +20,7 @@
 - 💬 Ask me about Cybersecurity and Technology Policy
 - 📫 How to reach me: klims001@fiu.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: ...
---> 
+- ⚡ Fun fact: 
 
 
 <h2> 🤳 Connect with me:</h2>
