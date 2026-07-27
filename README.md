@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently working on Wazuh Home Lab
+- 🔭 I’m currently working on a Wazuh Home Lab
 - 🌱 I’m currently learning Krita
 - 👯 I’m looking to collaborate on Game Design
 - 🤔 I’m looking for help with ...
