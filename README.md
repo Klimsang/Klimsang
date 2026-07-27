@@ -4,6 +4,7 @@
 
 - <b>Security Information and Event Management (Oracle VirtualBox) </b>
   - [Ubuntu:]()
+  - [Azure Sentinel:]()
 
 
 <h2>📺 Popular YouTube Videos</h2>
