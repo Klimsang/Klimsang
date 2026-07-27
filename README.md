@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on a Wazuh Home Lab
 - 🌱 I’m currently learning Krita
 - 👯 I’m looking to collaborate on Game Design
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with breaking into Cybersecurity
 - 💬 Ask me about Cybersecurity and Technology Policy
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her/hers
