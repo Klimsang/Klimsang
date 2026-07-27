@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-<h1>Hi, I'm Krystina! <br/><a href="https://www.linkedin.com/in/frydumplin/">Paralegal</a>,<a href="https://github.com/Klimsang">GRC Cybersecurity Analyst in Training</a>, <a href="https://www.youtube.com/c/fry_dumplin">Gamer</a></h1>
+<h1>Hi, I'm Krystina! <br/><a href="https://www.linkedin.com/in/frydumplin/">Paralegal</a>,<a href="https://github.com/Klimsang">Aspiring GRC Cybersecurity Analyst</a>, <a href="https://www.youtube.com/c/fry_dumplin">Gamer</a></h1>
 
 🔭 I’m currently working on a Wazuh Home Lab<br>🌱 I’m currently learning Krita<br>👯 I’m looking to collaborate on Game Design<br>🤔 I’m looking for help with breaking into Cybersecurity<br>💬 Ask me about Cybersecurity and Technology Policy<br>📫 How to reach me: klims001@fiu.edu<br>😄 Pronouns: she/her/hers<br>⚡ Fun fact: My family is from the Caribbean.
 
